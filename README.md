@@ -39,12 +39,12 @@ Neural-Network-System-Identification/
 │
 ├── Results/
 │   ├── Plot.png
-│   ├── R1.png
-│   ├── R2.png
-│   ├── R3.png
-│   ├── R4.png
-│   ├── R5.png
-│   └── R6.png
+│   ├── R1.PNG
+│   ├── R2.PNG
+│   ├── R3.PNG
+│   ├── R4.PNG
+│   ├── R5.PNG
+│   └── R6.PNG
 │
 └── README.md
 ```
@@ -64,27 +64,27 @@ Neural-Network-System-Identification/
 
 #### Part 1
 
-![Part 1](Results/R1.png)
+![Part 1](Results/R1.PNG)
 
 #### Part 2
 
-![Part 2](Results/R2.png)
+![Part 2](Results/R2.PNG)
 
 #### Part 3
 
-![Part 3](Results/R3.png)
+![Part 3](Results/R3.PNG)
 
 #### Part 4
 
-![Part 4](Results/R4.png)
+![Part 4](Results/R4.PNG)
 
 #### Part 5
 
-![Part 5](Results/R5.png)
+![Part 5](Results/R5.PNG)
 
 #### Part 6
 
-![Part 6](Results/R6.png)
+![Part 6](Results/R6.PNG)
 
 ---
 
