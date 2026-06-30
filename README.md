@@ -38,7 +38,6 @@ Neural-Network-System-Identification/
 ├── Problem_Statement/
 │
 ├── Results/
-│   ├── Plot.fig
 │   ├── Plot.png
 │   ├── R1.png
 │   ├── R2.png
@@ -56,7 +55,6 @@ Neural-Network-System-Identification/
 
 ### Overall System Response
 
-> *(Replace `Plot.png` with your exported image from MATLAB.)*
 
 ![System Response](Results/Plot.png)
 
