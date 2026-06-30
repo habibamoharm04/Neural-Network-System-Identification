@@ -28,29 +28,6 @@ The model was developed in **MATLAB** and trained to predict the system output. 
 
 ---
 
-## 📂 Repository Structure
-
-```text
-Neural-Network-System-Identification/
-│
-├── MATLAB_Code_FNN/
-│
-├── Problem_Statement/
-│
-├── Results/
-│   ├── Plot.png
-│   ├── R1.PNG
-│   ├── R2.PNG
-│   ├── R3.PNG
-│   ├── R4.PNG
-│   ├── R5.PNG
-│   └── R6.PNG
-│
-└── README.md
-```
-
----
-
 ## 📊 Results
 
 ### Overall System Response
