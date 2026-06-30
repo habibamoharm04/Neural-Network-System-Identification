@@ -1,28 +1,27 @@
 # Neural Network System Identification using MATLAB
 
-Implementation of a Feedforward Neural Network (FNN) for nonlinear system identification using MATLAB.
+A MATLAB implementation of a Feedforward Neural Network (FNN) for nonlinear system identification.
 
 ---
 
-## 📖 Project Overview
+## 📖 Overview
 
-This project implements a **Feedforward Neural Network (FNN)** to identify the behavior of a nonlinear dynamic system.
+This project presents the implementation of a **Feedforward Neural Network (FNN)** to identify the behavior of a nonlinear dynamic system.
 
-The neural network is trained using MATLAB to predict the system output. The predicted output (**Ynn**) is then compared with the actual plant output (**Yp**) to evaluate the model performance.
+The model was developed in **MATLAB** and trained to predict the system output. The predicted output (**Ynn**) is compared with the actual plant output (**Yp**) to evaluate the network performance.
 
 ---
 
 ## 🎯 Objectives
 
-- Design and implement a Feedforward Neural Network (FNN)
-- Develop the model using MATLAB
-- Predict the output of a nonlinear dynamic system
-- Compare the predicted output (**Ynn**) with the actual output (**Yp**)
-- Evaluate the network performance using graphical results
+- Design and implement a Feedforward Neural Network (FNN).
+- Predict the output of a nonlinear dynamic system.
+- Compare the predicted output (**Ynn**) with the actual output (**Yp**).
+- Evaluate the network performance using graphical results.
 
 ---
 
-## 🛠️ Tools & Software
+## 🛠️ Software Used
 
 - MATLAB
 - Feedforward Neural Network (FNN)
@@ -35,12 +34,12 @@ The neural network is trained using MATLAB to predict the system output. The pre
 Neural-Network-System-Identification/
 │
 ├── MATLAB_Code_FNN/
-│   └── FNN.m
 │
 ├── Problem_Statement/
 │
 ├── Results/
-│   ├── Plot/
+│   ├── Plot.fig
+│   ├── Plot.png
 │   ├── R1.png
 │   ├── R2.png
 │   ├── R3.png
@@ -55,31 +54,39 @@ Neural-Network-System-Identification/
 
 ## 📊 Results
 
-The **Results** folder contains the generated plots and screenshots showing the comparison between the neural network output (**Ynn**) and the actual plant output (**Yp**).
+### Overall System Response
 
-### Ynn vs Yp - Part 1
+> *(Replace `Plot.png` with your exported image from MATLAB.)*
 
-![Ynn vs Yp Part 1](Results/R1.png)
+![System Response](Results/Plot.png)
 
-### Ynn vs Yp - Part 2
+---
 
-![Ynn vs Yp Part 2](Results/R2.png)
+### Comparison Between **Ynn** and **Yp**
 
-### Ynn vs Yp - Part 3
+#### Part 1
 
-![Ynn vs Yp Part 3](Results/R3.png)
+![Part 1](Results/R1.png)
 
-### Ynn vs Yp - Part 4
+#### Part 2
 
-![Ynn vs Yp Part 4](Results/R4.png)
+![Part 2](Results/R2.png)
 
-### Ynn vs Yp - Part 5
+#### Part 3
 
-![Ynn vs Yp Part 5](Results/R5.png)
+![Part 3](Results/R3.png)
 
-### Ynn vs Yp - Part 6
+#### Part 4
 
-![Ynn vs Yp Part 6](Results/R6.png)
+![Part 4](Results/R4.png)
+
+#### Part 5
+
+![Part 5](Results/R5.png)
+
+#### Part 6
+
+![Part 6](Results/R6.png)
 
 ---
 
@@ -89,8 +96,8 @@ The **Results** folder contains the generated plots and screenshots showing the 
 - Feedforward Neural Networks
 - Nonlinear System Identification
 - Data Analysis
+- Scientific Visualization
 - Performance Evaluation
-- Scientific Plotting
 
 ---
 
@@ -98,4 +105,4 @@ The **Results** folder contains the generated plots and screenshots showing the 
 
 **Habiba Moharm**
 
-⭐ If you found this project interesting, feel free to explore the repository and review the implementation.
+Mechatronics & Robotics Engineering Student
